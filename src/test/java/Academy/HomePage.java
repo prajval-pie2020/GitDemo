@@ -51,9 +51,9 @@ public class HomePage extends base{
 		
 		System.out.println("Git Demo is going on GitDemo");
 		System.out.println("Git Demo is going on GitDemo");
-		System.out.println("Git Demo is going on GitDemo");
-		System.out.println("Git Demo is going on GitDemo");
-		
+	
+	 System.out.println("Git Develo is going on GitDemo");
+		System.out.println("Develop Brankc");
 		}
 
 	@AfterTest
