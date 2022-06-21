@@ -49,7 +49,10 @@ public class HomePage extends base{
 		fp.getEmail().sendKeys("xxx");
 		fp.sendMeInstructions().click();
 		
-		
+		System.out.println("Git Demo is going on GitDemo");
+		System.out.println("Git Demo is going on GitDemo");
+		System.out.println("Git Demo is going on GitDemo");
+		System.out.println("Git Demo is going on GitDemo");
 		
 		}
 
